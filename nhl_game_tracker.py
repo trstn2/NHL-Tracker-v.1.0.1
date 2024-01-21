@@ -2,8 +2,7 @@ import requests
 import json
 
 print("Use abbreviations ex: (wpg) |winnipeg jets| or (WPG) |WINNIPEG JETS|.")
-user_input_choice = input("(L)League Standings, (T)Team games, (A)All team schedules, (TS)Team Stats (RS)Roster "
-                          "Season: ")
+user_input_choice = input("(L)League Standings, (T)Team games, (A)All team schedules, (TS)Team Stats (RS)Roster Season: ")
 
 url_schedule = "https://api-web.nhle.com/v1/schedule/now"
 league_standings_now = "https://api-web.nhle.com/v1/standings/now"
