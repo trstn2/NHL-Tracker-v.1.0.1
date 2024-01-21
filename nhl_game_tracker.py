@@ -12,7 +12,7 @@ league_standings_now = "https://api-web.nhle.com/v1/standings/now"
 
 if user_input_choice == "RS":
     roster_of_choice = input("Enter team for roster this season: ")
-    roster_url = f"https://api-web.nhle.com/v1/roster/{roster_of_choice}/now"
+    roster_url = f"https://api-web.nhle.com/v1/roster/{roster_of_choice}/current"
 else:
     roster_url = None
 
