@@ -1,7 +1,17 @@
-# NHL-Tracker
+# NHL Stats Tracker
 
-Once files are downloaded do: ```pip install requests```
-Tracks your choice of NHL teams. Certain features may not be available. 
+NHL Stats Tracker is a simple Python application that allows users to fetch and display NHL-related statistics using the NHL API. The application provides options to retrieve league standings, team schedules, team stats, and rosters for the current season.
 
-Sources:
-https://gitlab.com/dword4/nhlapi/-/blob/master/new-api.md and https://github.com/ripred/NHL-API-Reference/blob/main/README.md
+## Prerequisites
+
+Make sure you have Python installed on your system.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/NHL-Stats-Tracker.git
+
+# Navigate to the project directory
+cd NHL-Stats-Tracker
+
+# Install dependencies
+pip install -r requirements.txt
