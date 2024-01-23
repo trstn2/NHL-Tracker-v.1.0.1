@@ -25,5 +25,5 @@ Output of code in the console: <img width="927" alt="EX3" src="https://github.co
 
 Inside the ```stats_nhl.json``` file where its easier to gather the info from the console: <img width="896" alt="EX4" src="https://github.com/trstn2/NHL-Tracker-v.1.0.1/assets/157193200/c1204736-c840-44cf-a926-9634e9912fad">
 
-As an example I click on the ```.png``` link of Mark Scheifele and it opens up into your prefered browser: <img width="959" alt="EX5" src="https://github.com/trstn2/NHL-Tracker-v.1.0.1/assets/157193200/e7ca2f5f-269b-4739-9da0-454b2a040a48">
+As an example I click on the ```.png``` link of Mark Scheifele and it opens up into your preferred browser: <img width="959" alt="EX5" src="https://github.com/trstn2/NHL-Tracker-v.1.0.1/assets/157193200/e7ca2f5f-269b-4739-9da0-454b2a040a48">
 
